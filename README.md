@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dnizfor</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **graphql,docker,typescript**
-
-- 💬 Ask me about **node.js**
+- 🌱 I’m currently learning **Jest**
 
 - 📫 How to reach me **dnizfor@gmail.com**
 
