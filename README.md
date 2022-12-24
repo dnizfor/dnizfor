@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dnizfor</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Jest**
-
 - 📫 How to reach me **dnizfor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
